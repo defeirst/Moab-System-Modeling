@@ -286,17 +286,17 @@ In this case, $rank(Q) = 4$, so the system is observable.
 
 ![Side view of the system used to formulate the Y inclination
 (\(\gamma\)) of the plate with respect to the
-linkages.](images/fig_1c.png)
+linkages.](images/fig_2.png)
 
 **Figure 2** Coss-section of the system through Linkage 1 and the origin.
 
 ![Side view of the system used to formulate the X inclination
-(\(\varphi\)) of the plate with respect to the linkages.](images/fig_2c.png)
+(\(\varphi\)) of the plate with respect to the linkages.](images/fig_3.png)
 
 **Figure 3** Coss-section of the system through Linkages 2 and 3.
 
 ![Top view of the system shows an equilateral triangle formed by the
-points at which the linkages attach on to the plate.](images/moab_2b.png)
+points at which the linkages attach on to the plate.](images/fig_4.png)
 
 **Figure 4** Top view of the system shows an equilateral triangle formed by the points at which the linkages attach on to the plate.
 
