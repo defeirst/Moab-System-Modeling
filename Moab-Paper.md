@@ -24,16 +24,16 @@ The ball on plate system can be visualized as an extension to the ball on beam p
 
 ## Nomenclature
 
-|                   |                                             |
-| :---------------- | :------------------------------------------ |
+|                 |                                             |
+| :---------------| :------------------------------------------ |
 | $\varphi$       | Angle of plate w.r.t. X axis                |
-| $\dot \varphi$   | Angular velocity of plate w.r.t. X axis     |
+| $\dot \varphi$  | Angular velocity of plate w.r.t. X axis     |
 | $\ddot \varphi$ | Angular acceleration of plate w.r.t. X axis |
 | $\gamma$        | Angle of plate w.r.t. Y axis                |
-|$\dot \gamma$   | Angular velocity of plate w.r.t. Y axis     |
-|$\ddot \gamma$  | Angular acceleration of plate w.r.t. Y axis |
+| $\dot \gamma$   | Angular velocity of plate w.r.t. Y axis     |
+| $\ddot \gamma$  | Angular acceleration of plate w.r.t. Y axis |
 | $m_b$           | Mass of ping pong ball                      |
-| $J_b$            | Moment of inertia of ping pong ball         |
+| $J_b$           | Moment of inertia of ping pong ball         |
 | $r_b$           | Radius of ball                              |
 | $v_b$           | velocity of the ball                        |
 | $x$             | x position of the ball                      |
