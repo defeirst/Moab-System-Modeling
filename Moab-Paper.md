@@ -1,5 +1,5 @@
 
-# System Modeling and Controller Design for MOAB
+# Moab System Modeling and PID Controller Design
 
 ## Abstract
 
@@ -15,11 +15,11 @@ PID controller, Lagrangian, Kinematic Analysis, Computer Vision
 
 Ball balancing is a challenging controls problem. The ball on plate system is a multi-degree of freedom, nonlinear system whose complexity is comparable to cart-pole and multiple inverted pendulums.
 
-![Figure 1](images/moab_iso_new.png)
+![Figure 1](images/moab_iso.png)
 
 **Figure 1** An isometric view of the ball on plate system with the axes labeled. The figure also shows the linkage configurations numbered.
 
-To understand the ball on plate system, we first look at a simpler ball on beam system. A ball on beam system has two degrees of freedom: the angle of the beam which is actuated by an electric motor and the ball's motion along the beam, which is a function of the angle of the beam. Another inherent property of this system is it's nonlinear nature. The acceleration of the ball due to changes in beam angle has a nonlinear relationship to the ball's position. [1,3].
+To understand the ball on plate system, we first look at a simpler ball on beam system. A ball on beam system has two degrees of freedom: the angle of the beam which is actuated by an electric motor and the ball's motion along the beam, which is a function of the angle of the beam. Another inherent property of this system is it's nonlinear nature. The acceleration of the ball due to changes in beam angle has a nonlinear relationship to the ball's position. [1,3]
 
 The ball on plate system can be visualized as an extension to the ball on beam problem. The ball on plate system consists of a plate that can be actuated in two perpendicular directions. The aim is to either stabilize the ball at a desired point on the plate or to make the ball follow a predefined trajectory. The system is designed so the plate is pivoted at the center. This system has four degrees of freedom (two from plate inclinations and two from ball's x and y movement on the plate). The system also carries over the nonlinearities of the ball on beam system mentioned above. 
 
