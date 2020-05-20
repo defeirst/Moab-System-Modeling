@@ -1,6 +1,8 @@
 
 # Moab System Modeling and PID Controller Design
 
+**Avinash Singh - Fresh Consulting, Bellevue, WA,USA**
+
 ## Abstract
 
 This document details the dynamical analysis of the ball on plate system (MOAB). It lays out the detailed derivations of the equations of motion, PID Controller, and kinematical analysis.
